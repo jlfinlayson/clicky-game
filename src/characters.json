@@ -37,26 +37,20 @@
     },
     {
         "id": 7,
-        "name": "Peach",
-        "image": "https://www.mariowiki.com/images/thumb/6/6a/PeachSSBU.png/1062px-PeachSSBU.png",
+        "name": "Piranha Plant",
+        "image": "https://www.mariowiki.com/images/thumb/f/f0/Piranha_Plant_SSBU.png/1200px-Piranha_Plant_SSBU.png",
         "clicked": false
     },
     {
         "id": 8,
-        "name": "Daisy",
-        "image": "https://www.mariowiki.com/images/thumb/3/35/Daisy_SSBUltimate.png/1200px-Daisy_SSBUltimate.png",
+        "name": "King Dedede",
+        "image": "https://www.mariowiki.com/images/thumb/d/da/KingDededeSSBU.png/1200px-KingDededeSSBU.png",
         "clicked": false
     },
     {
         "id": 9,
         "name": "K Rool",
         "image": "https://www.mariowiki.com/images/thumb/8/87/King_K_Rool_SSBU.png/1200px-King_K_Rool_SSBU.png",
-        "clicked": false
-    },
-    {
-        "id": 10,
-        "name": "Kirby",
-        "image": "https://www.mariowiki.com/images/thumb/0/07/Kirby_SSBU.png/910px-Kirby_SSBU.png",
         "clicked": false
     }
 ]
