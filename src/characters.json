@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Mario",
+        "image": "https://www.mariowiki.com/images/thumb/3/3e/Mario_SSBUltimate.png/1114px-Mario_SSBUltimate.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Donkey Kong",
+        "image": "https://www.mariowiki.com/images/thumb/7/7e/DonkeyKong_SSBU.png/1200px-DonkeyKong_SSBU.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Yoshi",
+        "image": "https://www.mariowiki.com/images/thumb/c/ce/YoshiSSBU.png/1200px-YoshiSSBU.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Pikachu",
+        "image": "https://www.mariowiki.com/images/thumb/9/93/Pikachu_SSBU.png/1200px-Pikachu_SSBU.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Jigglypuff",
+        "image": "https://www.mariowiki.com/images/thumb/6/6a/Jigglypuff_SSBU.png/1200px-Jigglypuff_SSBU.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Bowser",
+        "image": "https://www.mariowiki.com/images/thumb/4/49/Bowser_SSBU.png/1202px-Bowser_SSBU.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Peach",
+        "image": "https://www.mariowiki.com/images/thumb/6/6a/PeachSSBU.png/1062px-PeachSSBU.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Daisy",
+        "image": "https://www.mariowiki.com/images/thumb/3/35/Daisy_SSBUltimate.png/1200px-Daisy_SSBUltimate.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "K Rool",
+        "image": "https://www.mariowiki.com/images/thumb/8/87/King_K_Rool_SSBU.png/1200px-King_K_Rool_SSBU.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Kirby",
+        "image": "https://www.mariowiki.com/images/thumb/0/07/Kirby_SSBU.png/910px-Kirby_SSBU.png",
+        "clicked": false
+    }
+]
