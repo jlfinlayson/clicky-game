@@ -1,20 +1,27 @@
 import React, { Component } from 'react';
 import CharacterCard from "./components/CharacterCard";
 import Wrapper from "./components/Wrapper";
+import Navbar from "./components/Navbar"
 // import Header from "./components/Header";
 import characters from "./characters.json"
 
 class App extends Component {
   state = {
-    characters
+    characters: characters,
+    score: "0",
+    topScore: "0"
   };
 
   render() {
     return (
-      <Wrapper>
-        {/* <Header>
+      <div>
+        <Navbar begin = {this.state.begin} score = {this.state.score} topScore = {this.state.topScore}>
+        </Navbar>
 
-        </Header> */}
+        <h2 className="mt-4">Click any image to start!</h2>
+
+        <Wrapper>
+
         {this.state.characters.map(character => (
           <CharacterCard
           id={character.id}
@@ -24,6 +31,7 @@ class App extends Component {
         ))}
         
       </Wrapper>
+      </div>
     );
   }
 }

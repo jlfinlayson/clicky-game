@@ -52,5 +52,11 @@
         "name": "K Rool",
         "image": "https://www.mariowiki.com/images/thumb/8/87/King_K_Rool_SSBU.png/1200px-King_K_Rool_SSBU.png",
         "clicked": false
+    },
+    {
+        "id": 20,
+        "name": "Lucario",
+        "image": "https://www.mariowiki.com/images/thumb/0/08/Lucario_SSBU.png/1200px-Lucario_SSBU.png",
+        "clicked": false
     }
 ]
